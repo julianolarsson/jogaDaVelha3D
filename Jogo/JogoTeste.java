@@ -8,7 +8,7 @@
 public class JogoTeste
 {
     // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
-    private int x;
+    private int j;
 
     /**
      * COnstrutor para objetos da classe JogoTeste
