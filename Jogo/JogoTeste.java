@@ -8,7 +8,7 @@
 public class JogoTeste
 {
     // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
-    private int x;
+    private int f;
 
     /**
      * COnstrutor para objetos da classe JogoTeste
@@ -16,7 +16,7 @@ public class JogoTeste
     public JogoTeste()
     {
         // inicializa variáveis de instância
-        x = 0;
+        f = 0;
     }
 
     /**
@@ -28,6 +28,6 @@ public class JogoTeste
     public int sampleMethod(int y)
     {
         // ponha seu código aqui
-        return x + y;
+        return f + y;
     }
 }
